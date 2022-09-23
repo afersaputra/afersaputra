@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @afersaputra
+- 👋 Hi, I’m Anggi Firdian Saputra
 - 👀 I’m interested in data scienctist and data analyst
 - 🌱 I’m currently learning python, matlab, R, SQL, and other programming
 - 💞️ I’m looking to collaborate on python, matlab, R, and SQL to teach me if i have a problem.
